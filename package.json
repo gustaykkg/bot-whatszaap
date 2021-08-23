@@ -1,6 +1,9 @@
 {
   "name": "bot-whatszaap-lol-wow-kkk",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.7.0"
+  },
   "description": "",
   "main": "index.js",
   "start": "node index",
